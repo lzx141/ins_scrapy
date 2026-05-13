@@ -1,0 +1,110 @@
+[
+  {
+    "name": "datr",
+    "value": "WPFlabOy6DNAn4_mpuHUntbD",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ig_did",
+    "value": "99FB3D16-50EE-4652-A6A9-0B68ABF76914",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dpr",
+    "value": "1.5",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mid",
+    "value": "aWXxWAALAAHquuy89IoMOODZjmNf",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ig_nrcb",
+    "value": "1",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "fbm_124024574287414",
+    "value": "base_domain=.instagram.com",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "csrftoken",
+    "value": "urs4kCKHNiX65mQ0JoGncVBwIiKhl43h",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ds_user_id",
+    "value": "80029964293",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "wd",
+    "value": "638x559",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sessionid",
+    "value": "80029964293%3AWJ9YzOgZwypZ32%3A13%3AAYjZZNQqHmrE1obS6XUb2-h9XXscilcELgC8tijtDQ",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ps_l",
+    "value": "1",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ps_n",
+    "value": "1;",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  }
+]
